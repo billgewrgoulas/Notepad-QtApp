@@ -1,0 +1,2 @@
+# Notepad-QtApp
+Learning Qt.
