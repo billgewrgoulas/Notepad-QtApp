@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/images">
+        <file>Copy.bmp</file>
+    </qresource>
+    <qresource prefix="/new/prefix1"/>
+</RCC>
