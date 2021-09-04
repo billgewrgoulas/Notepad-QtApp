@@ -1,2 +1,3 @@
 # Notepad-QtApp
-Learning Qt.
+
+A simple notepad Aplication built with Qt.
